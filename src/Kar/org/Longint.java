@@ -13,6 +13,9 @@ public class Longint {
 		System.out.println(title);
 		
 	}
+	
+	
+
 	private void mano() {
 		System.out.println("mano is a good boy ");
 
