@@ -24,5 +24,18 @@ public class Longint {
 		// TODO Auto-generated method stub
 System.out.println("prabhu is a bad boy ");
 	}
+	 
+	 private void kavi() {
+		// TODO Auto-generated method stub
+
+		 System.out.println("sister");
+	}
+	 
+	 
+	 private void call() {
+		// TODO Auto-generated method stub
+System.out.println("loose ");
+	}
+	 
 
 }
