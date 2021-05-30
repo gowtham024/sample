@@ -13,6 +13,12 @@ public class Longint {
 		System.out.println(title);
 		
 	}
+	private void kavi() {
+		// TODO Auto-generated method stub
+
+		 System.out.println("sister");
+	}
+	 
 	
 	
 
