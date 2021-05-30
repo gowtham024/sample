@@ -13,7 +13,8 @@ public class Longint {
 		System.out.println(title);
 		
 	}
-	private void kavi() {
+	private void kaviguna() {
+
 		// TODO Auto-generated method stub
 
 		 System.out.println("sister");
@@ -21,7 +22,10 @@ public class Longint {
 	 
 	
 	
-
+public void name() {
+	
+	System.out.println("luse paiyan");
+}
 	private void mano() {
 		System.out.println("mano is a good boy ");
 
@@ -31,7 +35,7 @@ public class Longint {
 System.out.println("prabhu is a bad boy ");
 	}
 	 
-	 private void kavi() {
+	 private void kavi12() {
 		// TODO Auto-generated method stub
 
 		 System.out.println("sister");
