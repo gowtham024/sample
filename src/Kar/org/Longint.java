@@ -8,10 +8,18 @@ public class Longint {
 		System.setProperty("webdriver.chrome.driver", " C:\\Users\\Admin\\eclipse-workspace\\Prabakaran\\lib\\chromedriver.exe");
 		
 		WebDriver driver =new ChromeDriver();
-		driver.get("https://www.facebook.com/");
+		driver.get("https://www.flipkart.com/");
 		String title=driver.getTitle();
 		System.out.println(title);
 		
+	}
+	private void mano() {
+		System.out.println("mano is a good boy ");
+
+	}
+	 private void prabhu() {
+		// TODO Auto-generated method stub
+System.out.println("prabhu is a bad boy ");
 	}
 
 }
